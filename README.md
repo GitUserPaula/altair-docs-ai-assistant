@@ -6,6 +6,7 @@
 ## 🚀 Live Demo
 You can interact with Altair here: 
 👉 **[Launch Altair Assistant ✨](https://poe.com/Altair_Docs)**
+(Note: A free Poe account is required to interact with the demo)
 
 ---
 
