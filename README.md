@@ -1,7 +1,7 @@
 
-# 🦅 Altair: AI-Powered QA Assistant
+# 🦅 Altair_Docs: AI-Powered QA Assistant
 
-**Altair** is a specialized AI agent designed to demonstrate how **Retrieval-Augmented Generation (RAG)** can be applied to software quality assurance and process optimization.
+**Altair_Docs** is a specialized AI agent designed to demonstrate how **Retrieval-Augmented Generation (RAG)** can be applied to software quality assurance and process optimization.
 
 ## 🚀 Live Demo
 You can interact with Altair here: 
