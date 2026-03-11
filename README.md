@@ -31,5 +31,18 @@ This approach ensures:
    * *"What technologies are being used?"*
 3. Notice how Altair cites the document in its answers.
 
+### 📸 Altair in Action
+Check out how Altair analyzes documentation and provides strategic QA insights:
+
+<details>
+  <summary><b>Click here to view Demo Screenshots 🔍</b></summary>
+  <br>
+  
+  ![Initial Greeting and Summary](assets/Altair_Docs_1.png)
+  *Altair providing an automated summary of the project goals.*
+  
+  ![Strategic Analysis](assets/Altair_Docs_4.png)
+  *Altair recommending a cross-platform strategy (Mobile + Web).*
+</details>
 ---
 *Created as part of my professional portfolio to showcase AI implementation and Quality Strategy.*
