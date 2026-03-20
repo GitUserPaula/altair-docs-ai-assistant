@@ -39,9 +39,11 @@ Check out how Altair analyzes documentation and provides strategic QA insights:
   <br>
   
   ![Initial Greeting and Summary](assets/Altair_Docs_1.PNG)
+  
   *Altair providing an automated summary of the project goals.*
   
   ![Strategic Analysis](assets/Altair_Docs_4.PNG)
+  
   *Altair recommending a cross-platform strategy (Mobile + Web).*
 </details>
 
