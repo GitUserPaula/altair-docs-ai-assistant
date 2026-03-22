@@ -48,4 +48,4 @@ Check out how Altair analyzes documentation and provides strategic QA insights:
 </details>
 
 ---
-*Created as part of my professional portfolio to showcase AI implementation and Quality Strategy.*
+*Developed with 💙 by Pau | Quality Engineer*
